@@ -11,6 +11,6 @@ You'll need to `pip3 install` the `os`, `schedule`, and `time` modules as necess
 
 The only other config, as far as I'm aware, is to modify the following lines in `screenshoo.py`:
 
-> `path = "/Users/jaredjewell/Desktop" #path to your desktop`
-> `dirname = "!#&$ screenshots"        #name of the dump dir`
+`path = "/Users/jaredjewell/Desktop" #path to your desktop`
+`dirname = "!#&$ screenshots"        #name of the dump dir`
 
